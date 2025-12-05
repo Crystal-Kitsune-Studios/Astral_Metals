@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smithing",
+  "base": { "item": "minecraft:diamond_sword" },
+  "addition": { "item": "astralmetals:orithichalite_ingot" },
+  "template": { "item": "astralmetals:overworld_upgrade_smithing_template" },
+  "result": { "item": "astralmetals:orithichalite_sword" }
+}

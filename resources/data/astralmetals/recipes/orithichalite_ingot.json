@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SDS",
+    "SSS"
+  ],
+  "key": {
+    "S": { "item": "astralmetals:orithichalite_scrap" },
+    "D": { "item": "minecraft:diamond" }
+  },
+  "result": { "item": "astralmetals:orithichalite_ingot" }
+}
