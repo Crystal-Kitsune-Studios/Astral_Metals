@@ -1,0 +1,7 @@
+{
+  "music.x3n0_my_world": {
+    "sounds": [
+      { "name": "astralmetals:music/x3n0_my_world", "stream": true }
+    ]
+  }
+}
