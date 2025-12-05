@@ -9,6 +9,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.item.Item;
 import net.minecraft.recipe.RecipeSerializer;
 import net.minecraft.recipe.SpecialRecipeSerializer;
+import com.astralmetals.registry.AstralMusic;
 
 public class AstralMetalsMain implements ModInitializer {
 
@@ -23,6 +24,10 @@ public class AstralMetalsMain implements ModInitializer {
 
         // === Tool Sets ===
         AstralTools.registerTools();
+        
+        // === Music ===
+        AstralMusic.registerAll();
+
 
         // === Alloy Forge / Recipes ===
         registerRecipes();
