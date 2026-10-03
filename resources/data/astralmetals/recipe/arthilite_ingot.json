@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "astralmetals:arthilite_ore"
+  },
+  "result": {
+    "id": "astralmetals:arthilite_ingot"
+  },
+  "experience": 1.5,
+  "cookingtime": 200
+}

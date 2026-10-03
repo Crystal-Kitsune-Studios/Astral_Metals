@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "astralmetals:titanium_block"
+    }
+  ],
+  "result": {
+    "id": "astralmetals:titanium_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,39 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.148'
+    id 'idea'
+}
+version = '0.1.0'
+group = 'com.astralmetals'
+base { archivesName = 'astralmetals' }
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+neoForge {
+    enable {
+        version = '21.1.252'
+        // Optional binary-patched artifacts avoid full Minecraft decompilation on small machines.
+        disableRecompilation = providers.gradleProperty('binaryOnly').isPresent()
+    }
+    runs {
+        client { client() }
+        server { server(); programArgument '--nogui' }
+    }
+    mods { astralmetals { sourceSet sourceSets.main } }
+}
+// Keep the original resource tree, including the existing music asset.
+sourceSets.main.resources.srcDir 'resources'
+sourceSets.main.resources.exclude '**/*.bak', 'data/astralmetals/recipes/**'
+tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }
+
+repositories { mavenCentral() }
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.11.4'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+    testImplementation 'net.neoforged:testframework:21.1.252'
+}
+test { useJUnitPlatform(); maxHeapSize = '2G' }
+neoForge {
+    unitTest {
+        enable()
+        testedMod = mods.astralmetals
+    }
+}

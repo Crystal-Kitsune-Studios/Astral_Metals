@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:diamond_sword"
+  },
+  "addition": {
+    "item": "astralmetals:orithichalite_ingot"
+  },
+  "template": {
+    "item": "astralmetals:overworld_upgrade_smithing_template"
+  },
+  "result": {
+    "id": "astralmetals:orithichalite_sword"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "astralmetals:nickel_block"
+    }
+  ],
+  "result": {
+    "id": "astralmetals:nickel_ingot",
+    "count": 9
+  }
+}

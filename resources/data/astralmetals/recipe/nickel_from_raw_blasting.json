@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "astralmetals:raw_nickel"
+  },
+  "result": {
+    "id": "astralmetals:nickel_ingot"
+  },
+  "experience": 0.7,
+  "cookingtime": 100
+}

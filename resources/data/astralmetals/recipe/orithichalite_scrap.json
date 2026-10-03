@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "astralmetals:orithichalite_ore"
+  },
+  "result": {
+    "id": "astralmetals:orithichalite_scrap"
+  },
+  "experience": 2.0,
+  "cookingtime": 400
+}

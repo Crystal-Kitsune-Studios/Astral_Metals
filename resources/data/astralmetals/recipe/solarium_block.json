@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "astralmetals:solarium_ingot"
+    }
+  },
+  "result": {
+    "id": "astralmetals:solarium_block"
+  }
+}

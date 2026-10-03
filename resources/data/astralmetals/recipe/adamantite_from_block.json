@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "astralmetals:adamantite_block"
+    }
+  ],
+  "result": {
+    "id": "astralmetals:adamantite_ingot",
+    "count": 9
+  }
+}

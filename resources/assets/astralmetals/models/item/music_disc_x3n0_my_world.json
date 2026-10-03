@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "astralmetals:item/music_disc_x3n0_my_world"
+  }
+}

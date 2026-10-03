@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "astralmetals:orithichalite_block"
+    }
+  ],
+  "result": {
+    "id": "astralmetals:orithichalite_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "astralmetals:platinum_block"
+    }
+  ],
+  "result": {
+    "id": "astralmetals:platinum_ingot",
+    "count": 9
+  }
+}

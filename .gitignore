@@ -1,2 +1,12 @@
 /target/
 /bin/
+
+.gradle/
+build/
+run/
+run-server/
+.idea/
+*.iml
+*.bak
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/*.tmp

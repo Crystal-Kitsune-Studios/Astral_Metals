@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "astralmetals:item/tungsten_steel_hoe"
+  }
+}

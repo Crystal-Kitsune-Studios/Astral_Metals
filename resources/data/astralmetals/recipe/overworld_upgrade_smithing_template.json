@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DID",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "I": {
+      "item": "astralmetals:orithichalite_ingot"
+    }
+  },
+  "result": {
+    "id": "astralmetals:overworld_upgrade_smithing_template"
+  }
+}

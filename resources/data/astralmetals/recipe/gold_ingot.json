@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "astralmetals:raw_gold"
+  },
+  "result": {
+    "id": "astralmetals:gold_ingot"
+  },
+  "experience": 0.7,
+  "cookingtime": 200
+}

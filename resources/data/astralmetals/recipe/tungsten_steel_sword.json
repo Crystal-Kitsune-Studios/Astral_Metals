@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    " I ",
+    " S "
+  ],
+  "key": {
+    "I": {
+      "item": "astralmetals:tungsten_steel_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "astralmetals:tungsten_steel_sword"
+  }
+}
