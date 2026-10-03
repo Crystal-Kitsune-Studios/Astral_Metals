@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "astralmetals:aetherium_block"
+    }
+  ],
+  "result": {
+    "id": "astralmetals:aetherium_ingot",
+    "count": 9
+  }
+}

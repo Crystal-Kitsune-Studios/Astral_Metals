@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "astralmetals:adamantite_ore"
+  },
+  "result": {
+    "id": "astralmetals:adamantite_ingot"
+  },
+  "experience": 3.0,
+  "cookingtime": 400
+}

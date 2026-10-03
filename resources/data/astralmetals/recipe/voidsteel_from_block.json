@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "astralmetals:voidsteel_block"
+    }
+  ],
+  "result": {
+    "id": "astralmetals:voidsteel_ingot",
+    "count": 9
+  }
+}

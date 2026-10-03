@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "astralmetals:gold_ingot"
+    }
+  },
+  "result": {
+    "id": "astralmetals:gold_block"
+  }
+}

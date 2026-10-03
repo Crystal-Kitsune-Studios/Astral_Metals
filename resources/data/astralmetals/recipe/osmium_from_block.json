@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "astralmetals:osmium_block"
+    }
+  ],
+  "result": {
+    "id": "astralmetals:osmium_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "astralmetals:celestrium_block"
+    }
+  ],
+  "result": {
+    "id": "astralmetals:celestrium_ingot",
+    "count": 9
+  }
+}

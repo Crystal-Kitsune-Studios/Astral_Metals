@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "astralmetals:raw_aetherium"
+  },
+  "result": {
+    "id": "astralmetals:aetherium_ingot"
+  },
+  "experience": 0.7,
+  "cookingtime": 200
+}

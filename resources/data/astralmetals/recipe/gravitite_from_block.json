@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "astralmetals:gravitite_block"
+    }
+  ],
+  "result": {
+    "id": "astralmetals:gravitite_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "astralmetals:chronotite_block"
+    }
+  ],
+  "result": {
+    "id": "astralmetals:chronotite_ingot",
+    "count": 9
+  }
+}

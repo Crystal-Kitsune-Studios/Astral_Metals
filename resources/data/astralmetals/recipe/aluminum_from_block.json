@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "astralmetals:aluminum_block"
+    }
+  ],
+  "result": {
+    "id": "astralmetals:aluminum_ingot",
+    "count": 9
+  }
+}

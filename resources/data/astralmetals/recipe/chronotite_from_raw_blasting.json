@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "astralmetals:raw_chronotite"
+  },
+  "result": {
+    "id": "astralmetals:chronotite_ingot"
+  },
+  "experience": 0.7,
+  "cookingtime": 100
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "astralmetals:vibranite_block"
+    }
+  ],
+  "result": {
+    "id": "astralmetals:vibranite_ingot",
+    "count": 9
+  }
+}

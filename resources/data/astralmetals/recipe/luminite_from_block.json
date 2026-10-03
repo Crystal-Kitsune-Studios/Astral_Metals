@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "astralmetals:luminite_block"
+    }
+  ],
+  "result": {
+    "id": "astralmetals:luminite_ingot",
+    "count": 9
+  }
+}

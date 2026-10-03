@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "astralmetals:bronze_block"
+    }
+  ],
+  "result": {
+    "id": "astralmetals:bronze_ingot",
+    "count": 9
+  }
+}

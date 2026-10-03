@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+[[mods]]
+modId="astralmetals"
+version="0.1.0"
+displayName="Astral Metals"
+description="Exploration-focused metals, ores, and tools. NeoForge port."
+[[dependencies.astralmetals]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.252,21.2)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.astralmetals]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"

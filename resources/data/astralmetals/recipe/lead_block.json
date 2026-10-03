@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "astralmetals:lead_ingot"
+    }
+  },
+  "result": {
+    "id": "astralmetals:lead_block"
+  }
+}
